@@ -1,0 +1,28 @@
+body {
+    margin: 0%;
+}
+
+h1 {
+    margin-top: 0%;
+}
+
+.top-container {
+    border: 10px;
+    background-color:aquamarine;
+    width: 200px;
+    height: 200px;
+}
+
+.middle-container {
+    border: 20px;
+    background-color:aqua;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-container {
+    border: 10px;
+    background-color: aliceblue;    
+    width: 200px;
+    height: 200px;
+}
